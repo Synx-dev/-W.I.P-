@@ -29,25 +29,15 @@ Lumina is licensed under the MIT License. See the `LICENSE` file for more inform
 
 ## Author
 
-Lumina was created by [Your Name]. You can contact me at [your email address] or [your GitHub username].
+Lumina was created by SynxAxzure. You can contact me at hdxdj or skylikealtbot@gmail
+com.
 
 ## Stay Tuned!
 
 Lumina is still in development, but it will be available soon. Stay tuned for updates and announcements on the Lumina GitHub page.
 
-## GitHub Page
-
-https://github.com/your-username/lumina-ui-library
-
-## Documentation
-
-https://github.com/your-username/lumina-ui-library/blob/main/docs/README.md
-
-## Discord Server
-
-Join our Discord server to stay up-to-date with the latest news and updates on Lumina.
-
-https://discord.gg/your-discord-server-invite-link
+## Documentation 
+Soon!
 
 ## Code
 
@@ -62,3 +52,6 @@ Here is an overview of the Lumina modules:
 To use the Lumina library in your project, simply require the appropriate modules and create instances of the classes you need.
 
 For example, to create a new button, you can use the following code:
+```
+--Coming soon
+```
