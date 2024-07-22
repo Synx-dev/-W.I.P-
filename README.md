@@ -17,7 +17,7 @@ This repository contains the source code for the Lumina UI library. You can clon
 
 ## Getting Started
 
-To get started with Lumina, simply clone or download the repository and follow the instructions in the `README.md` file. You can also check out the [Lumina documentation](https://github.com/your-username/lumina-ui-library/blob/main/docs/README.md) for more information on how to use the library.
+To get started with Lumina, simply clone or download the repository and follow the instructions in the `README.md` file. You can also check out the [Lumina documentation](https://github.com/Synx-dev/-W.I.P-/blob/main/README.md) for more information on how to use the library.
 
 ## Contributing
 
