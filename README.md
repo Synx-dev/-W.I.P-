@@ -1,4 +1,4 @@
-# Lumina UI Library
+# Stellar UI Library
 
 Coming Soon!
 
